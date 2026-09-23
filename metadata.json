@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix منظومة إدارة المهام - مكتب رئيس جامعة العين العراقية",
+  "description": "نظام رقمي متكامل لإدارة ومتابعة المهام والتوجيهات الرئاسية والوزارية وفق الهيكل التنظيمي لجامعة العين العراقية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
